@@ -1,5 +1,5 @@
 # Digital-Hardware-Based-Spectrum-Analyzer
-This repository is an implementation of a spectrum analyzer using System Verilog.
+This repository is an implementation of a spectrum analyzer using System Verilog. Designed using Quartus and ModelSim.
 
 ## PROJECT DESCRIPTION
 This project uses a Cyclone V FPGA which has an onboard analog to digital converter (ADC), a breakout board to connect the FPGA to and HDMI cable, a small HDMI connected display, and an analog signal generator.
